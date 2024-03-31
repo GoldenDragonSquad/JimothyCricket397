@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1>Welcome to the Jimothy Cricket Website</h1>
+<h2>Here is where I post behind the scenes videos and updates for my YouTube Channel</h2>
+<h3><o><li>I am currently working on a walkthrough of the game Hogwarts Legacy</li>
+<li> I am currently looking for a editing system</li>
+<li>if you want to contact me, click <button><a href="mailto:jimothy@ulbc.xyz">Here</a></li></o></h3>
 
 <!--
 **JimothyCricket397/JimothyCricket397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
